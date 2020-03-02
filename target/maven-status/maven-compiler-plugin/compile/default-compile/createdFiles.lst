@@ -1,0 +1,11 @@
+cl\emergya\mlopez\earthquakerestWStest\ServletInitializer.class
+cl\emergya\mlopez\earthquakerestWStest\wstools\WSTools.class
+cl\emergya\mlopez\earthquakerestWStest\db\DAOH2Utils.class
+cl\emergya\mlopez\earthquakerestWStest\restws\RestWSEarthquakesAPI.class
+cl\emergya\mlopez\earthquakerestWStest\dto\DatePair.class
+cl\emergya\mlopez\earthquakerestWStest\dto\MagnitudePair.class
+cl\emergya\mlopez\earthquakerestWStest\wstools\SwaggerRedirectController.class
+cl\emergya\mlopez\earthquakerestWStest\EarthquakeRestWsTestApplication.class
+cl\emergya\mlopez\earthquakerestWStest\restws\RestWSTest1.class
+cl\emergya\mlopez\earthquakerestWStest\restws\SwaggerConfiguration.class
+cl\emergya\mlopez\earthquakerestWStest\db\H2Connection.class
